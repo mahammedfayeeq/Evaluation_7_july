@@ -5,3 +5,6 @@ int main()
 	printf("i am from haveri");
 	printf("my hobbies are playing cricket,volleyball");
 	printf("my father name is mahammed yunis and mother name is tabassum");
+	printf("i am persueing my btech in amity university");
+
+rturn 0;
